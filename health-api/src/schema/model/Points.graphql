@@ -3,7 +3,7 @@ type Points {
   date: Date
   exercise: Int
   diet: Int
-  alchohol: Int
+  alcohol: Int
   notes: String
   user: User!
 }
